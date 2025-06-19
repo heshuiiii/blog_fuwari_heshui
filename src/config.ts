@@ -64,11 +64,11 @@ export const navBarConfig: NavBarConfig = {
 			url: "https://file.akaye.de/", // Internal links should not include the base path, as it is automatically added
 			external: true, // Show an external link icon and will open in a new tab
 		},
-						{
-			name: "说说",
-			url: "https://akaye.de/moments/", // Internal links should not include the base path, as it is automatically added
-			external: true, // Show an external link icon and will open in a new tab
-		},
+		// {
+		// 	name: "说说",
+		// 	url: "https://akaye.de/moments/", // Internal links should not include the base path, as it is automatically added
+		// 	external: true, // Show an external link icon and will open in a new tab
+		// },
 	],
 };
 
