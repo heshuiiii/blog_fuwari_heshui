@@ -10,7 +10,7 @@ draft: false
 
 
 不多说了 上总结融合怪  我坚定维护伟大的Netcup
-
+```
 https://paste.spiritlhl.net/#/show/JHQJ0.txt
 https://paste.spiritlhl.net/#/show/uKgvg.txt
 https://paste.spiritlhl.net/#/show/F9koV.txt
@@ -23,5 +23,5 @@ https://paste.spiritlhl.net/#/show/EO0gD.txt
 https://paste.spiritlhl.net/#/show/qtqdf.txt
 https://paste.spiritlhl.net/#/show/Ui3F8.txt
 https://paste.spiritlhl.net/#/show/ifEYU.txt
-
+```
 
